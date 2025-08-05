@@ -1,1 +1,17 @@
-1
+1 Database - PostgreSql:
+  Table:
+          users
+          permissions
+          roles
+          role_permissions
+          catecory
+          products
+          orders - заявки на заказ
+                  use nodemailer
+                  and status (pendding, accept, done, rejected)
+            
+          callback_requests- перезванить мне 
+Static:
+        Main site 
+        About Site
+        Contacts 
